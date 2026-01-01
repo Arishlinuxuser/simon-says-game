@@ -35,7 +35,7 @@ A classic **Simon Says memory game** built using HTML, CSS and **vanilla JavaScr
 
 ## ▶️ How to Play
 
-1. Press any key to start the game  
+1. Press any key to start the game 🔗 Live Demo: https://arishlinuxuser.github.io/simon-says-game/ 
 2. Watch the color sequence carefully  
 3. Repeat the sequence by clicking the colored boxes  
 4. Each level adds one more color to the sequence  
